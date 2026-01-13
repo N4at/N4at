@@ -4,7 +4,7 @@ Je m'appelle Nathan, je suis consultant en cybersécurité à Paris.
 
 Ma stack technique est assez variée mais je suis evidemment sur React, Python, TS et Tailwind. Mes outils préférés sont un terminal propre, Apple Notes et une bonne tasse de café  ☕️
 
-J'ai voyagé dans plus de 30 pays et j'aime créer tout ce que mon imagination me permet.
+J'ai voyagé dans plus de 30 pays et j'aime créer tout ce que mon imagination me permet. La plupart de mes créations sont privées mais je vous laisse explorer celles qui sont publiques !
 
 Fun Facts :
 
